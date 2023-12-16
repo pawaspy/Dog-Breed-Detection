@@ -1,4 +1,4 @@
-# 🐶 Dog Breed Classification using Transfer Learning and TensorFlow 2.0
+# 🐶 Dog Breed Classification using Transfer Learning and TensorFlow 2.0!!
 
 This project uses TensorFlow 2.0 and transfer learning to classify different breeds of dogs. The data used comes from the Kaggle dog breed identification competition, which includes over 10,000 labeled images of 120 different dog breeds.
 
